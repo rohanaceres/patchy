@@ -1,3 +1,6 @@
 [submodule "Patchy/Silvester"]
 	path = Patchy/Silvester
 	url = https://github.com/rohanaceres/patchy-silvester.git
+[submodule "Patchy/Tom"]
+	path = Patchy/Tom
+	url = https://github.com/rohanaceres/patchy-tom.git
